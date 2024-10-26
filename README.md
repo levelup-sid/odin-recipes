@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe of an dish
+Recipe of dishes 
